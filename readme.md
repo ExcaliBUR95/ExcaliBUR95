@@ -5,10 +5,9 @@
 
 ![codewars](https://www.codewars.com/users/Alex095chechen/badges/large)
 <br>
-<br>
-![Telegram](https://t.me/NotQuiteHuman)
-<br>
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+
+<a href='https://t.me/NotQuiteHuman'>telegram</a>
+
 <br>
 <hr>
 <p>Командный проект Blog</p>
