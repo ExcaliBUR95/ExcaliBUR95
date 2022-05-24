@@ -7,16 +7,28 @@
 <hr>
 <p>Командный проект Blog</p>
 <li>frontend</li>
+<h1>Запуск проекта</h1>
+<pre>npm i</pre>
+<pre>npm run start</pre>
 <a href='https://github.com/ExcaliBUR95/blog-front'>Открыть код</a>
 <li>backend</li>
+<h1>Запуск проекта</h1>
+<pre>npm i</pre>
+<pre>npx nodemon </pre>
 <a href='https://github.com/ExcaliBUR95/blogBack'>Открыть код</a>
 
 <br>
 <hr>
 <p>Командный проект Game-Club</p>
 <li>frontend</li>
+<h1>Запуск проекта</h1>
+<pre>npm i</pre>
+<pre>npm run start</pre>
 <a href='https://github.com/ExcaliBUR95/game-club-newFront'>Открыть код</a>
 <li>backend</li>
+<h1>Запуск проекта</h1>
+<pre>npm i</pre>
+<pre>npx nodemon </pre>
 <a href='https://github.com/ExcaliBUR95/game-club-newBack
 '>Открыть код</a>
 
@@ -31,7 +43,7 @@ jsonwebtoken, Webpack, express-handlebars, http-status, cors, multer, concurrent
 <h1>Чему хочу научиться в будущем</h1>
 typescript Vue.js NextJS
 
-![codewars](https://www.codewars.com/users/Alex095chechen/badges/large)
+![codewars](https://www.codewars.com/users/AlikhanElderkh/badges/large)
 <br>
 
 <a href='https://t.me/NotQuiteHuman'>telegram</a>
