@@ -1,12 +1,8 @@
 <h1>Hi there 👋🏿 I'm Alikhan 👨🏿‍💻</h1>
 <h3>frontend developer intucode</h3>
 <h4>Немного о себе</h4>
-#### 
 
-![codewars](https://www.codewars.com/users/Alex095chechen/badges/large)
-<br>
 
-<a href='https://t.me/NotQuiteHuman'>telegram</a>
 
 <br>
 <hr>
@@ -35,3 +31,8 @@ jsonwebtoken, Webpack, express-handlebars, http-status, cors, multer, concurrent
 
 <h1>Чему хочу научиться в будущем</h1>
 typescript Vue.js NextJS
+
+![codewars](https://www.codewars.com/users/Alex095chechen/badges/large)
+<br>
+
+<a href='https://t.me/NotQuiteHuman'>telegram</a>
