@@ -3,7 +3,7 @@
 <h4>Немного о себе</h4>
 #### 
 
-![codewars](https://www.codewars.com/user/Alex095chechen/badges/large)
+![codewars](https://www.codewars.com/users/Alex095chechen/badges/large)
 
 <hr>
 <p>Командный проект Blog</p>
