@@ -41,9 +41,14 @@ jsonwebtoken, Webpack, express-handlebars, http-status, cors, multer, concurrent
 <hr>
 
 <h1>Чему хочу научиться в будущем</h1>
-typescript Vue.js NextJS
+
+<h3>
+typescript Vue.js NextJS</h3>
+
+
+<hr>
 
 ![codewars](https://www.codewars.com/users/AlikhanElderkh/badges/large)
 <br>
-
+<h2>Связь со мной:<h1>
 <a href='https://t.me/NotQuiteHuman'>telegram</a>
