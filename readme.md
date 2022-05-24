@@ -2,13 +2,9 @@
 <h3>frontend developer intucode</h3>
 <h4>Немного о себе</h4>
 #### 
-<br>
-{![Telegram](https://t.me/NotQuiteHuman)}
-<br>
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-<br>
-[![codewars](https://www.codewars.com/users/Alex095chechen/badges/large)](https://www.codewars.com/users/Alex095chechen)  
-<br>
+
+![codewars](https://www.codewars.com/user/Alex095chechen/badges/large)
+
 <hr>
 <p>Командный проект Blog</p>
 <li>frontend</li>
