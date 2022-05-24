@@ -6,29 +6,29 @@
 
 <hr>
 <p>Командный проект Blog</p>
-<li>frontend</li>
 <h1>Запуск проекта</h1>
 <pre>npm i</pre>
 <pre>npm run start</pre>
+<h3>frontend</h3>
 <a href='https://github.com/ExcaliBUR95/blog-front'>Открыть код</a>
-<li>backend</li>
 <h1>Запуск проекта</h1>
 <pre>npm i</pre>
 <pre>npx nodemon </pre>
+<h3>backend</h3>
 <a href='https://github.com/ExcaliBUR95/blogBack'>Открыть код</a>
 
 <br>
 <hr>
 <p>Командный проект Game-Club</p>
-<li>frontend</li>
 <h1>Запуск проекта</h1>
 <pre>npm i</pre>
 <pre>npm run start</pre>
+<h3>frontend</h3>
 <a href='https://github.com/ExcaliBUR95/game-club-newFront'>Открыть код</a>
-<li>backend</li>
 <h1>Запуск проекта</h1>
 <pre>npm i</pre>
 <pre>npx nodemon </pre>
+<h3>backend</h3>
 <a href='https://github.com/ExcaliBUR95/game-club-newBack
 '>Открыть код</a>
 
